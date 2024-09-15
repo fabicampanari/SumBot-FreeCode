@@ -169,6 +169,8 @@ We would like to thank all the contributors who helped make this project possibl
 
 - 🇧🇷 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
+
+<!-- [
 - 🇲🇦 [Hajar Zerouani](https://github.com/zerouani)
 
 - 🇵🇭 [Hannah Dela Cruz ](https://github.com/heinah)
@@ -176,6 +178,7 @@ We would like to thank all the contributors who helped make this project possibl
 - 🇲🇦 [Harmali Kawtar](https://github.com/kawtar1234)
   
 - 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
+-->
 
  <br>
 
